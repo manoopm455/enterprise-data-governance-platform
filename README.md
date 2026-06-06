@@ -7,7 +7,7 @@ Enterprise Data Governance, Metadata Management, Data Lineage, Regulatory Contro
 
 This repository serves as a live, production-grade implementation blueprint for an automated data governance framework. Moving away from manual legacy documentation, this project implements **Governance-as-Code**—translating complex international regulations into automated technical schemas, data lineage configurations, and programmatic verification scripts.
 
----
+--- 
 
 ## 📂 Repository Structure & Traceability Matrix
 
